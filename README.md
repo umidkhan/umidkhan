@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Front-End 
 - 💞️ I’m looking to collaborate on iTech_company
-- 📫 How to reach me polatxonovumidjon@gmail.com
+- 📫 How to reach me umidxondeveloper@gmail.com
 
 <!---
 umidkhan/umidkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

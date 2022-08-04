@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umidkhan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Front-End 
+- 👀 I’m interested in Back-end
+- 🌱 I’m currently learning Python, JavaScript 
 - 💞️ I’m looking to collaborate on iTech_company
 - 📫 How to reach me umidxondeveloper@gmail.com
 
